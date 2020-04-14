@@ -19,16 +19,22 @@ input, button {
 
 
 .content {
-  max-width: 1100px;
+  max-width: 1170px;
   margin: 0 auto;
+  padding: 0 30px;
 }
 
 header#main-header{
+  height: 46px;
+  background: #FFF;
+}
+
+header#main-header .content {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 46px;
-  background: #FFF;
+  height: 100%;
+
 }
 
 header#main-header nav ul{
