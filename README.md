@@ -1,6 +1,6 @@
 # Clone-Twitter
  
-Possui apenas o layuot
+Possui apenas o layout
 
 <p align="center">
   <img src="./assets/clone.png">
